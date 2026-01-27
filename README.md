@@ -1,6 +1,9 @@
 # Hi, I'm Md Zahid Hasan 👋
 **Aspirant Data Analyst | Python, SQL, Power BI, Excel**  
-Passionate about transforming data into actionable insights to drive business and healthcare decisions.
+Aspiring and detail-oriented data professional with a strong academic foundation in statistics and a passion for 
+data-driven problem solving. Motivated to continuously learn and grow, with the ability to turn complex 
+information into actionable insights. Seeking opportunities to contribute meaningfully to organizational success 
+and build a career in data analytics
 
 ---
 
