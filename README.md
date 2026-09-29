@@ -35,7 +35,7 @@ and build a career in data analytics
 
 ### **3. Customer Behaviour & Commercial Analytics**
 
-* **Tools:** Python, Pandas, SQLite, Streamlit
+* **Tools:** Excel, Python, Pandas, SQLite, Streamlit
 * Analyzed **17K customers and 306K events** to measure customer and offer engagement
 * Identified **75.6% offer-view** and **44.0% completion rates** through customer journey analysis
 * Developed **10+ behavioural metrics** and an interactive dashboard to drive customer and offer performance insights
